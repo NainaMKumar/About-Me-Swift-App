@@ -15,8 +15,8 @@ struct ContentView: View {
     var body: some View {
         
         VStack (alignment: .center){
-            Text("Naina Kumar")
-                .font(.custom("DidactGothic-Regular", size: 30))
+            Text("Naina M Kumar")
+                .font(.custom("DidactGothic-Regular", size: 35))
                 .fontWeight(.bold)
                 .foregroundColor(Color(hue: 0.656, saturation: 1.0, brightness: 0.996))
                 
